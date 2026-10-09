@@ -1,0 +1,16 @@
+# Compiled executable
+/myls
+
+# Object files
+*.o
+
+# Other compiled files
+*.out
+*.core
+
+# Temporary editor files
+*~
+*.swp
+
+# macOS system files
+.DS_Store
