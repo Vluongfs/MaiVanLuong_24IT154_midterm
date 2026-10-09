@@ -5,11 +5,11 @@
 **Sinh viên thực hiện:** Mai Văn Lương  
 **Mã số sinh viên:** 24IT154  
 **Hệ điều hành mục tiêu:** NetBSD 10.1  
-**Tên repository dự kiến:** `MaiVanLuong_24IT154_midterm`
+**Tên repository:** `MaiVanLuong_24IT154_midterm`
 
 ## 1. Giới thiệu
 
-Dự án xây dựng chương trình dòng lệnh `myls` bằng ngôn ngữ C, mô phỏng các chức năng của tiện ích `ls(1)` trên NetBSD 10.1 theo phạm vi đề bài giữa kỳ.
+Dự án xây dựng chương trình dòng lệnh `myls` bằng ngôn ngữ C, mô phỏng các chức năng của tiện ích `ls(1)` trên NetBSD 10.1.
 
 Chương trình liệt kê tập tin/thư mục, xử lý các đối số đường dẫn, cung cấp thông tin chi tiết về tập tin, hỗ trợ sắp xếp theo các tiêu chí, duyệt thư mục đệ quy và xử lý một số loại tập tin đặc biệt. Mục tiêu của dự án là thực hành lập trình hệ thống theo kiến trúc module và sử dụng API hệ thống tập tin trên môi trường UNIX/BSD.
 
